@@ -1,11 +1,11 @@
 
-# Beautiful Mi Card in Flutter
+# Beautiful Mi Card in Flutter💖
 
 Create a Mi Card in flutter.
 
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
 
-## ScreenShots
+## ScreenShots📱
 
 
 | <img src="images/sample.png"  width="300"/> 
@@ -22,7 +22,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 <a href="https://www.facebook.com/vetjogwapo/"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/facebook-icon.png" width="60"></a>
 
-## Getting Started
+## Getting Started🖥️
 
 This project is a starting point for a Flutter application.
 
