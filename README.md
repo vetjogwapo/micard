@@ -10,6 +10,11 @@ This amazing app is provided in open source. So, helpful contributions are highl
 
 <img src="images/sample.png"  width="300"/> 
 
+## Getting Started🖥️
+
+This project is a starting point for a Flutter application.
+
+- clone repo and setup dart plugin
 
 ### :heart: Found this project useful?
 
@@ -22,11 +27,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 <a href="https://www.facebook.com/vetjogwapo/"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/facebook-icon.png" width="60"></a>
 
-## Getting Started🖥️
-
-This project is a starting point for a Flutter application.
-
-- clone repo and setup dart plugin
 
 A few resources to get you started if this is your first Flutter project:
 
