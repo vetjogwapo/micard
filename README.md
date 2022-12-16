@@ -1,4 +1,3 @@
-
 # Beautiful Mi Card in Flutter💖
 Create a Mi Card in flutter.
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
@@ -7,7 +6,6 @@ This amazing app is provided in open source. So, helpful contributions are highl
 <img src="images/sample.png"  width="300"/> 
 
 ## Getting Started🖥️
-
 This project is a starting point for a Flutter application.
 - clone repo and setup dart plugin
 
